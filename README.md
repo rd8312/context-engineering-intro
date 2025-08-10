@@ -33,6 +33,7 @@ cd Context-Engineering-Intro
 
 - [What is Context Engineering?](#what-is-context-engineering)
 - [Template Structure](#template-structure)
+- [中文版本](#中文版本)
 - [Step-by-Step Guide](#step-by-step-guide)
 - [Writing Effective INITIAL.md Files](#writing-effective-initialmd-files)
 - [The PRP Workflow](#the-prp-workflow)
@@ -83,6 +84,22 @@ context-engineering-intro/
 ```
 
 This template doesn't focus on RAG and tools with context engineering because I have a LOT more in store for that soon. ;)
+
+## 中文版本
+
+提供完整繁/簡中文說明與對應檔案結構，內容與此專案保持同步：
+
+- 目錄：`context-engineering-intro-zh/`
+- 說明文件入口：`context-engineering-intro-zh/README.md`
+- 其他重點檔案：
+  - `context-engineering-intro-zh/CLAUDE.md`
+  - `context-engineering-intro-zh/INITIAL.md`
+  - `context-engineering-intro-zh/INITIAL_EXAMPLE.md`
+  - `context-engineering-intro-zh/PRPs/`
+  - `context-engineering-intro-zh/examples/`
+
+若你偏好中文閱讀與操作，建議直接從 `context-engineering-intro-zh/README.md` 開始。
+- ref: https://github.com/GitYCC/context-engineering-intro-zh
 
 ## Step-by-Step Guide
 
